@@ -6,7 +6,7 @@
 
 ## 🎬 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Full_System_Walkthrough-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1wRnWKnSuGAB5HOPPuaHwO9cpibaX-zVL/view?usp=sharing)
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Full_System_Walkthrough-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1g-qXzHKY2ZUzDyfm8hHJFCjRYo3Ye7n_/view?usp=sharing)
 
 
 ### 🎯 What Makes This Different from Existing Tools?
