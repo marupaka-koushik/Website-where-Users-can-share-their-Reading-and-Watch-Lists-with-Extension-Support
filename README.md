@@ -1,5 +1,7 @@
 # 🔒 Website where users can share their reading and watch lists with extension support
 
+video link:https://drive.google.com/file/d/1wRnWKnSuGAB5HOPPuaHwO9cpibaX-zVL/view?usp=sharing
+
 A full-stack content summarization platform that prioritizes user privacy by processing content locally and storing only AI-generated summaries. Features a Chrome extension for seamless content extraction, local AI summarization, social following system, and real-time notifications.
 
 ![Privacy-First Architecture](https://img.shields.io/badge/Privacy-First-green?style=for-the-badge) ![Local AI](https://img.shields.io/badge/AI-Local%20Processing-blue?style=for-the-badge) ![Full Stack](https://img.shields.io/badge/Stack-Full%20Stack-orange?style=for-the-badge)
