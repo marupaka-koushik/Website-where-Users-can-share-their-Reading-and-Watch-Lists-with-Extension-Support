@@ -1,4 +1,4 @@
-# 🔒 Privacy-First Content Summarizer
+# 🔒 Website where users can share their reading and watch lists with extension support
 
 A full-stack content summarization platform that prioritizes user privacy by processing content locally and storing only AI-generated summaries. Features a Chrome extension for seamless content extraction, local AI summarization, social following system, and real-time notifications.
 
