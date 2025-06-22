@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Content Summarizer",
+  "version": "1.0",
+  "description": "Extract and summarize content from YouTube and other websites",
+  
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting",
+    "tabs"
+  ],
+  
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://youtube.com/*",
+    "http://localhost:3000/*",
+    "http://localhost:3001/*",
+    "http://localhost:8000/*",
+    "https://*.vercel.app/*"
+  ],
+  
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["universal-extractor.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Extract Content"
+  }
+}
