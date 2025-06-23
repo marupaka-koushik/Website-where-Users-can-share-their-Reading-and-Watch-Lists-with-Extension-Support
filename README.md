@@ -6,10 +6,18 @@
 
 ## 🎬 Demo Video
 
- Working model : https://drive.google.com/file/d/1g-qXzHKY2ZUzDyfm8hHJFCjRYo3Ye7n_/view?usp=sharing
-Code Walkthrough: https://drive.google.com/file/d/1-Q5HJsW8olG46dmN9AB4NVUNuuEQB-zz/view?usp=sharing
-Testing : https://drive.google.com/file/d/1HAurXnjOkxcgg7Mm1VlNfAPbOn4yH2PC/view?usp=sharing
+## Working Model
+[Click here to view the working model](https://drive.google.com/file/d/1g-qXzHKY2ZUzDyfm8hHJFCjRYo3Ye7n_/view?usp=sharing)
 
+---
+
+## Code Walkthrough
+[Click here for the code walkthrough](https://drive.google.com/file/d/1-Q5HJsW8olG46dmN9AB4NVUNuuEQB-zz/view?usp=sharing)
+
+---
+
+## Testing
+[Click here to see testing](https://drive.google.com/file/d/1HAurXnjOkxcgg7Mm1VlNfAPbOn4yH2PC/view?usp=sharing)
 
 ### 🎯 What Makes This Different from Existing Tools?
 
